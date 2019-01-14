@@ -5,7 +5,7 @@ if(duckKey)
 	falling = true;
 }
 
-if(place_meeting(x,y+1, obj_block))
+if(place_meeting(x, y + 1 , obj_block))
 {
 	vspd = 0;
 	jumping = false;
@@ -19,13 +19,13 @@ if(place_meeting(x,y+1, obj_block))
 	if((jumpKey || jumpKeyAlt) && !duckKey)
 	{
 		jumping = true;
-		vspd = jspd;
+		vspd = -jspd;
 	}
 }
 else {
 	if(ducking)
 	{
-		vspd += grav*4;
+		vspd += grav * 4;
 	}
 	else
 	{

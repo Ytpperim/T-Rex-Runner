@@ -138,7 +138,7 @@
             "Key": "69849376-be7f-40bd-91aa-2cf5ca89b036",
             "Value": {
                 "id": "117651a4-9a6d-475b-98fd-3bb37ac7028a",
-                "resourcePath": "objects\\obj_dino_stand\\obj_dino_stand.yy",
+                "resourcePath": "objects\\obj_dino\\obj_dino.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -156,14 +156,6 @@
                 "id": "1e4bf70c-2531-4f27-8355-8d4d90ec6d3a",
                 "resourcePath": "views\\6b2dcb19-deab-4377-8b38-bf573ea12ba6.yy",
                 "resourceType": "GMFolder"
-            }
-        },
-        {
-            "Key": "7441fa8c-5709-467f-bc0a-e217dbf7f67d",
-            "Value": {
-                "id": "cf775c72-dec6-49d4-90f1-75e76effa068",
-                "resourcePath": "objects\\obj_dino_run\\obj_dino_run.yy",
-                "resourceType": "GMObject"
             }
         },
         {
@@ -276,14 +268,6 @@
                 "id": "06be5d2f-2581-4baa-bd8a-8f4c4b6eb348",
                 "resourcePath": "views\\eda9f71f-6bdb-46ff-af47-a4e39c6dfc28.yy",
                 "resourceType": "GMFolder"
-            }
-        },
-        {
-            "Key": "f8e369ed-a637-4345-ae15-48ead29434dc",
-            "Value": {
-                "id": "b1c8b181-1002-4de7-9d68-e3868296f207",
-                "resourcePath": "objects\\obj_dino_dead\\obj_dino_dead.yy",
-                "resourceType": "GMObject"
             }
         }
     ],

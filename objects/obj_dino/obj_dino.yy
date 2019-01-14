@@ -2,7 +2,7 @@
     "id": "69849376-be7f-40bd-91aa-2cf5ca89b036",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_dino_stand",
+    "name": "obj_dino",
     "eventList": [
         {
             "id": "5d7ce4a3-8543-456b-a7ac-0b0e493e42b0",
