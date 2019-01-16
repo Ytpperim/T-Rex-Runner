@@ -5,7 +5,7 @@ if (place_meeting(x , y+ vspd, obj_block))
 		y += sign(vspd);
 	}
 	
-	vspd=0;
+	vspd = 0;
 }
 
 y+= vspd;

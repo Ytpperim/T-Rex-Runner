@@ -175,11 +175,27 @@
             }
         },
         {
+            "Key": "80b167dc-f0b9-4a3f-9d2c-ece93f3d1c74",
+            "Value": {
+                "id": "e1bd0a07-9edb-4aed-a51b-9ba9c8e155bc",
+                "resourcePath": "sprites\\spr_cactus_small\\spr_cactus_small.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "87df6123-ea74-41bf-a460-a80a6d405c17",
             "Value": {
                 "id": "fc646f08-9d5b-47f1-89d1-a22ab362393f",
                 "resourcePath": "views\\87df6123-ea74-41bf-a460-a80a6d405c17.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "8f35c6b6-c674-4e07-8811-27bb3ad95b8a",
+            "Value": {
+                "id": "071399e7-1793-4b58-a47b-21d7db2c6170",
+                "resourcePath": "sprites\\spr_cactus_large\\spr_cactus_large.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -212,6 +228,22 @@
                 "id": "2f9229e2-92d0-4f3b-9793-a764ca945758",
                 "resourcePath": "options\\windows\\options_windows.yy",
                 "resourceType": "GMWindowsOptions"
+            }
+        },
+        {
+            "Key": "cd3d93d3-58d9-49d2-b8d6-975881133604",
+            "Value": {
+                "id": "a7282eb1-9fa7-4c31-8e60-79526cb001e9",
+                "resourcePath": "objects\\obj_obstacle\\obj_obstacle.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "cec93f4e-8493-4b9a-a4ac-2fe3a2212443",
+            "Value": {
+                "id": "9137e773-defb-497d-8ff6-51f5d0a27f37",
+                "resourcePath": "sprites\\spr_pterodactyl\\spr_pterodactyl.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -268,6 +300,14 @@
                 "id": "06be5d2f-2581-4baa-bd8a-8f4c4b6eb348",
                 "resourcePath": "views\\eda9f71f-6bdb-46ff-af47-a4e39c6dfc28.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "f59d236c-a662-41a9-ab1d-513bd7d5a28b",
+            "Value": {
+                "id": "ee9160c0-55e3-403a-bfa3-fee43d93f4bc",
+                "resourcePath": "objects\\obj_controller\\obj_controller.yy",
+                "resourceType": "GMObject"
             }
         }
     ],

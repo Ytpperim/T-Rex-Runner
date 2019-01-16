@@ -2,7 +2,7 @@ if (jumping || falling)
 {
 	sprite_index = spr_dino_stand;
 }
-if(ducking)
+if(duckKey)
 {
 	sprite_index = spr_dino_duck;
 	image_speed = 2;
