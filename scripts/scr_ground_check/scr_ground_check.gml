@@ -16,7 +16,7 @@ if(place_meeting(x, y + 1 , obj_block))
 		ducking = false;
 	}
 	
-	if((jumpKey || jumpKeyAlt) && !duckKey)
+	if((jumpKey || jumpKeyAlt) && (!duckKey && !global.gameOver))
 	{
 		jumping = true;
 		vspd = -jspd;

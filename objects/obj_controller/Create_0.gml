@@ -1,5 +1,4 @@
 global.speedModifier = 1;
-
 //obstacles
 alarm[0] = room_speed * 3;
 
